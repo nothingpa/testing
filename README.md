@@ -15,3 +15,4 @@ whoami
 id  # It will give current user id.
 id <username> # It will give particular user id.
 ```
+<a href="Linux.md"><img src="https://pngimg.com/uploads/linux/linux_PNG2.png" width="44"/> Linux </a>
