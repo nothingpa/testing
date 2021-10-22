@@ -15,7 +15,7 @@ id  # It will give current user id.
 id <username> # It will give particular user id.
 ```
 \
-<a href=""><img src="images/Linux.png" width="16"/> <b>Linux</b></a>
+<a href=""><img src="images/Linux.png" width="16"/> <b>Linux</b> </a>
 
 <a href=""><img src="images/Maven.png" width="16"/> <b>Maven</b></a>
 
