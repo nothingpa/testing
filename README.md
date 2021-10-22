@@ -1,4 +1,3 @@
- # _Linux_
 <h1> <i> Linux </i> </h1>
 
 we need to know some basic knowledge on __Linux__ and some basic commands to manage.
@@ -15,4 +14,21 @@ whoami
 id  # It will give current user id.
 id <username> # It will give particular user id.
 ```
-<a href="Linux.md"><img src="https://pngimg.com/uploads/linux/linux_PNG2.png" width="44"/> Linux </a>
+\
+<a href=""><img src="images/Linux.png" width="16"/> <b>Linux</a>
+
+<a href=""><img src="images/Maven.png" width="16"/> Maven</a>
+
+<a href=""><img src="images/Git.png" width="16"/> Git</a>
+
+<a href=""><img src="images/Tomcat.png" width="16"/> Tomcat</a>
+
+<a href=""><img src="images/SonarQube.png" width="16"/> SonarQube</a>
+
+<a href=""><img src="images/Nexus.png" width="16"/> Nexus</a>
+
+<a href=""><img src="images/Jenkins.png" width="16"/> Jenkins</a>
+
+<a href=""><img src="images/Docker.png" width="16"/> Docker</a>
+
+<a href=""><img src="images/Kubernetes.png" width="16"/> kubernetes</b></a>
