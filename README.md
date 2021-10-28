@@ -4,7 +4,6 @@
 
  **DevOps** integrates developers and operations terms in order to improve collaboration and productivity by automating infrastructure, automating workflows and continuously measuring application performance.
  
- \
  **DevOps** would place more focus on automation.
  - Automate code Testing
  - Automate workflows
