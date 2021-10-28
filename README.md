@@ -3,8 +3,8 @@
 **DevOps** is not a technology it's a methodology.
 
  **DevOps** integrates developers and operations terms in order to improve collaboration and productivity by automating infrastructure, automating workflows and continuously measuring application performance.
- <br/>
- <b>DevOps<b/> would place more focus on automation.
+ 
+ **DevOps** would place more focus on automation.
  - Automate code Testing
  - Automate workflows
  - Automate infrastructure
