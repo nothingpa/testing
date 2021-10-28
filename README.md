@@ -12,7 +12,7 @@
 
 #### In these course we will discuss some __DevOps__ tools.
 \
-<a href="topics/Linux*"><img src="images/Linux.png" width="19"/> <b>Linux</b> </a>
+<a href="topics/Linux"><img src="images/Linux.png" width="19"/> <b>Linux</b> </a>
 
 <a href=""><img src="images/Maven.png" width="19"/> <b>Maven</b></a>
 
