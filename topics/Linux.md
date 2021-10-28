@@ -14,5 +14,3 @@ whoami
 id  # It will give current user id.
 id <username> # It will give particular user id.
 ```
-
-
