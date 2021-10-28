@@ -1,4 +1,3 @@
-<h1 style="text-align:center"><i>DevOps</i></h1>
 # **_DevOps_**
 
 **DevOps** is not a technology it's a methodology.
