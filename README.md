@@ -6,8 +6,7 @@
  <!--
  **DevOps** describe the adoption of iterative software development, automation and infrastructure deployment and maintenance. 
 -->
-<br/>
-
+---
  <b>DevOps<b/> would place more focus on automation.
  - Automate code Testing
  - Automate workflows
